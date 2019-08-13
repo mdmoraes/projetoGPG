@@ -1,0 +1,21 @@
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\bin\Debug\EncontrarArquivos.exe.config
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.csprojResolveAssemblyReference.cache
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.Form1.resources
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.Properties.Resources.resources
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.csproj.GenerateResource.Cache
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\bin\Debug\EncontrarArquivos.exe
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\bin\Debug\EncontrarArquivos.pdb
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.exe
+c:\_cshp\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.pdb
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\bin\Debug\EncontrarArquivos.exe.config
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\bin\Debug\EncontrarArquivos.exe
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\bin\Debug\EncontrarArquivos.pdb
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.csprojAssemblyReference.cache
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.Form1.resources
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.Properties.Resources.resources
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.csproj.GenerateResource.cache
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.csproj.CoreCompileInputs.cache
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.exe
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.pdb
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\bin\Debug\gpgme-sharp.dll
+E:\Pasquali Solution\EncontrarArquivos\EncontrarArquivos\EncontrarArquivos\obj\Debug\EncontrarArquivos.csproj.CopyComplete

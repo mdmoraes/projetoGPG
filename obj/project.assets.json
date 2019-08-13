@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "gpgme-sharp/2.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net40/gpgme-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/gpgme-sharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "gpgme-sharp/2.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net40/gpgme-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/gpgme-sharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "gpgme-sharp/2.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net40/gpgme-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/gpgme-sharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "gpgme-sharp/2.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net40/gpgme-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/gpgme-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gpgme-sharp/2.0.3": {
+      "sha512": "PMIECdw9r31IXEVFvr9g/RSmpk0E1Mw8k04D3rse+ZULit/j6dVm1YmFFknOcEONDiQ22sk19c7KLgJKUV+X+A==",
+      "type": "package",
+      "path": "gpgme-sharp/2.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gpgme-sharp.2.0.3.nupkg.sha512",
+        "gpgme-sharp.nuspec",
+        "lib/net40/gpgme-sharp.dll",
+        "lib/netstandard2.0/gpgme-sharp.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "gpgme-sharp >= 2.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MM\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Pasquali Solution\\EncontrarArquivos\\EncontrarArquivos\\EncontrarArquivos\\EncontrarArquivos.csproj",
+      "projectName": "EncontrarArquivos",
+      "projectPath": "E:\\Pasquali Solution\\EncontrarArquivos\\EncontrarArquivos\\EncontrarArquivos\\EncontrarArquivos.csproj",
+      "packagesPath": "C:\\Users\\MM\\.nuget\\packages\\",
+      "outputPath": "E:\\Pasquali Solution\\EncontrarArquivos\\EncontrarArquivos\\EncontrarArquivos\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\MM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "gpgme-sharp": {
+            "target": "Package",
+            "version": "[2.0.3, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
