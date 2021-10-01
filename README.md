@@ -1,7 +1,7 @@
 # projetoGPG
 
 IMPORTANTE:
-Na máq. que for rodar a aplicação tem que instalar o gpg4win e adicionar o caminho da instação no PATH de variáveis do sistema.
+Na máq. que for rodar a aplicação tem que instalar o gpg4win e adicionar o caminho da instalação do gpg4win no PATH de variáveis do sistema.
 LINK do GPG4WIN - versão atualizada. https://www.gpg4win.org/
 
 Em VARIÁVEIS DO SISTEMA deve-se incluir os PATHs abaixo:
